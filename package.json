@@ -1,0 +1,17 @@
+{
+  "name": "backend-task",
+  "version": "1.0.0",
+  "description": "Zuri server task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "author": "Obasi Ikechukwu Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
